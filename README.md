@@ -9,10 +9,14 @@ Use Databinding in gradle file to easy way integrate xml into kotlin file
 Use Material 3 design for UI
 Create Refresh Option in Option Menu. It will reload SMS contents in RecyclerView.
 
+![1](https://user-images.githubusercontent.com/79136705/200353668-1cec477d-ff38-40c2-bf05-ebad3646acca.png)
 
-![Screenshot 2022-11-07 194931](https://user-images.githubusercontent.com/79136705/200352999-e9da7c47-96a0-41ed-b8a8-c6f7f5e1e984.png)
-![Screenshot 2022-11-07 195313](https://user-images.githubusercontent.com/79136705/200353012-dce12f06-0179-418e-a97a-3ff8aa8ff3c4.png)
-![Screenshot 2022-11-07 200105](https://user-images.githubusercontent.com/79136705/200353019-67f1f643-44df-4acc-acdf-622e5bafccdb.png)
-![Screenshot 2022-11-07 200716](https://user-images.githubusercontent.com/79136705/200353025-b843591e-2b3d-4ee9-9888-03ba97a77141.png)
-![Screenshot 2022-11-07 201109](https://user-images.githubusercontent.com/79136705/200353031-61332a09-56eb-40ad-b141-f76e278f8d84.png)
-![Screenshot_20221107_064947](https://user-images.githubusercontent.com/79136705/200353037-e3c9150b-76da-4f4f-8193-c576caab1737.png)
+![2](https://user-images.githubusercontent.com/79136705/200353641-3c1ccdab-f7de-4a41-8c75-4a4b7ff06e1d.png)
+
+![3](https://user-images.githubusercontent.com/79136705/200353653-5573d086-2d4b-4e54-b5ea-511dbcfc490d.png)
+
+![4](https://user-images.githubusercontent.com/79136705/200353656-a7b055fb-f49d-4edd-8b3d-ec7d03d01709.png)
+
+![5](https://user-images.githubusercontent.com/79136705/200353659-d18b8349-7ee9-4671-a197-8c7efb34d63c.png)
+
+![6](https://user-images.githubusercontent.com/79136705/200353664-534704c8-5025-4dc7-8533-323bb2f24847.png)
